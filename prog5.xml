@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ASCII"?>
+<?xml-stylesheet type="text/css" href="prog5.css"?>
+<studentlist>
+    <student>
+        <usn>1CR15CS001</usn>
+        <name>Anil</name>
+        <college>CMRIT</college>
+        <branch>CSE</branch>
+        <joindate>15-Aug-2009</joindate>
+        <emailid>anil@yahoo.com</emailid>
+    </student>
+    <student>
+        <usn>1CR15CS002</usn>
+        <name>Shalini</name>
+        <college> CMRIT </college>
+        <branch>CSE</branch>
+        <joindate>15-Aug-2009</joindate>
+        <emailid>Shalini@yahoo.com</emailid>
+    </student>
+    <student>
+        <usn>1CR15CS003</usn>
+        <name>Rupa</name>
+        <college> CMRIT </college>
+        <branch>CSE</branch>
+        <joindate>15-Aug-2009</joindate>
+        <emailid>Rupa@yahoo.com</emailid>
+        </student>
+</studentlist>
